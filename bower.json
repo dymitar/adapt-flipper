@@ -1,17 +1,17 @@
 {
 	"name": "adapt-flipper",
 	"description": "Displays lists of items one at a time. When the learner clicks on the component it flips to the next item. Demo available.",
-	"version": "1.0.5",
-	"framework": ">=2.0.0",
+	"version": "1.0.6",
+	"framework": ">=5.0.0",
 	"displayName": "Flipper",
 	"component": "flipper",
 	"main": "/js/adapt-flipper.js",
-	"homepage": "https://github.com/danielstorey/adapt-flipper",
+	"homepage": "https://github.com/dymitar/adapt-flipper",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/danielstorey/adapt-flipper.git"
+		"url": "https://github.com/dymitar/adapt-flipper.git"
 	},
-	"issues": "https://github.com/danielstorey/adapt-flipper/issues",
+	"issues": "",
 	"keywords": [
 		"adapt-plugin",
 		"adapt-component"
